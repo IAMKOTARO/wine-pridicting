@@ -1,5 +1,5 @@
 # wine-pridicting
 
-Macine learning in Python.
+Macine learning with Python.
 
-I traned model predicting red wine or white wine.
+I traned red wine or white wine classification model.
