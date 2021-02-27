@@ -1,5 +1,17 @@
 # wine-pridicting
 
-Macine learning with Python.
+## 動作環境
+- Python 3.8.5
 
-I traned red wine or white wine classification model.
+## 必要ライブラリ
+```
+chainer==7.7.0
+pandas==1.2.2
+matplotlib==3.3.4
+ipykernel==5.5.0
+```
+
+## インストール
+```
+source install.sh
+```
